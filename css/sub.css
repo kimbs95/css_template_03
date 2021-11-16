@@ -197,8 +197,7 @@
     height:180px;  /*배너 영역 높이*/
     width:395px;   /*배너 영역 너비*/
      margin-top:10px;
-     margin-bottom:10px;
- }
+     margin-bottom:10px;}
  .banner img{       /*배너 이미지 스타일*/
     float:left;
     height:180px;
